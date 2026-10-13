@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/paginaRedTrampa.html"
+      "destination": "/index.html"
     }
   ]
 }
